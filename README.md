@@ -1,4 +1,4 @@
-﻿# OpenCode
+# OpenCode
 
 Repositorio de trabajo para el proyecto **OpenCode**.
 
@@ -6,19 +6,19 @@ Repositorio de trabajo para el proyecto **OpenCode**.
 
 ```
 OpenCode/
-├── README.md
-├── .gitignore
-└── src/            # código fuente
++-- README.md
++-- .gitignore
++-- src/            # c�digo fuente
 ```
 
 ## Primeros pasos
 
 ```bash
-git clone https://github.com/USUARIO/OpenCode.git
+git clone https://github.com/byteham/OpenCode.git
 cd OpenCode
 ```
 
 ## Notas
 
 - Rama principal: `main`
-- Este repositorio se inicializó desde local y se enlazó con GitHub.
+- Este repositorio se inicializ� desde local y se enlaz� con GitHub.
