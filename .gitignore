@@ -30,3 +30,12 @@ venv/
 *.tmp
 *.log
 ~$*
+
+# C / C++ (binarios y objetos)
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+a.out
