@@ -1,0 +1,32 @@
+﻿# Sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Entornos y secretos
+.env
+.env.local
+*.key
+*.pem
+
+# Windows / temporales
+*.tmp
+*.log
+~$*
